@@ -4,11 +4,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xzMHZyY3NpbTU4OHpmMXJyd3ZvNjZidHA1Z2ZsdDdiODFkeGR6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding" width="350"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-n3xus&label=Profile%20views&color=0e75b6&style=flat" alt="mr-n3xus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-n3xus&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-B1nary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-n3xus" alt="mr-n3xus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-n3xus" alt="Mr-B1nary" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Mr-B1nary" /></a> </p>
 
 - 🔭 I’m currently working on **Backend(Python)**
 
@@ -30,8 +30,8 @@
   <img src="https://media1.tenor.com/m/771GAt_nZtIAAAAd/mr-robot-edit-mr-robot.gif" alt="Coding" heght="500" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-n3xus&show_icons=true&locale=en&layout=compact" alt="mr-n3xus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-B1nary&show_icons=true&locale=en&layout=compact" alt="Mr-B1nary" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-n3xus&show_icons=true&locale=en" alt="mr-n3xus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-B1nary&show_icons=true&locale=en" alt="Mr-B1nary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-n3xus&" alt="mr-n3xus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-B1nary&" alt="Mr-B1nary" /></p>
