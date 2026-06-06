@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr-B1nary</h1>
 <h3 align="center">A passionate frontend and backend developer from Iran</h3>
-
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ2cDhzOWVueDN6YTlieWEweGplM2hpNzZwOW5ld2F5M2tuaHE5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-b1nary&label=Profile%20views&color=0e75b6&style=flat" alt="mr-b1nary" /> </p>
 
 
