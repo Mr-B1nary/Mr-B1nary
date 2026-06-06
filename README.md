@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr-B1nary</h1>
 <h3 align="center">A passionate frontend and backend developer from Iran</h3>
-
+<video src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnh6dzMwb2Z2ZjV3b3dwdmR6NnEyMGJoOXNldHBiN2d4bXM4amxnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-b1nary&label=Profile%20views&color=0e75b6&style=flat" alt="mr-b1nary" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-b1nary" alt="mr-b1nary" /></a> </p>
