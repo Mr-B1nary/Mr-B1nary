@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mr-B1nary</h1>
 <h3 align="center">A passionate frontend and backend developer from Iran</h3>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ2cDhzOWVueDN6YTlieWEweGplM2hpNzZwOW5ld2F5M2tuaHE5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-b1nary&label=Profile%20views&color=0e75b6&style=flat" alt="mr-b1nary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-b1nary" alt="mr-b1nary" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<pre>
 - 🔭 I’m currently working on **Backend(Python)**
 
-- 🌱 I’m currently learning **Network+,security+**
+- 🌱 I’m currently learning **Network+,security+**</pre>
+
 
 
 <h3 align="left">Connect with me:</h3>
