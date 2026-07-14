@@ -9,7 +9,7 @@
 <pre>
 - 🔭 I’m currently working on **Backend(Python)**
 
-- 🌱 I’m currently learning **Network+,security+**</pre>
+- 🌱 I’m currently learning **Security+**</pre>
 
 
 
