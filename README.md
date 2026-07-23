@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mr-B1nary;Full-Stack+Developer;Cybersecurity+Enthusiast;Creator+of+Awesome+Projects" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=Mr-B1nary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Mr-B1nary?label=Followers&style=social" alt="GitHub followers" /> 
 </div>
 <hr>
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 I'm AmirHossein (Mr-B1nary), a passionate Full-Stack Developer from Iran with a deep interest in Cybersecurity and Backend Engineering. I believe in writing clean, efficient code and building projects that make a difference.
 
 - 🔭 Currently working on: Advanced Python backend systems
