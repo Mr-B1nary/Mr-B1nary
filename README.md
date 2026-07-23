@@ -41,15 +41,16 @@ I'm AmirHossein (Mr-B1nary), a passionate Full-Stack Developer from Iran with a 
 |:---------------------------------------------------------:|:------------------------------------------------------:|
 | Handcrafted wooden products store | Fitness equipment e-commerce |
 
+<img src="https://github.com/Mr-B1nary/Mr-B1nary/blob/main/diagram.png" height="400">
 </div>
 <hr>
 <h3 align="left">🌐Connect with me:</h3>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-B1nary)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirhossein)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amirhossein)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhossein@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__b1nary)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_B1naryy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir.arjmand.0fficial@gmail.com)
 
 </div>
 <hr>
