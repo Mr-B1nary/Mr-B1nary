@@ -1,29 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mr-B1nary</h1>
-<h3 align="center">A passionate frontend and backend developer from Iran</h3>
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ2cDhzOWVueDN6YTlieWEweGplM2hpNzZwOW5ld2F5M2tuaHE5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-b1nary&label=Profile%20views&color=0e75b6&style=flat" alt="mr-b1nary" /> </p>
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mr-B1nary;Full-Stack+Developer;Cybersecurity+Enthusiast;Creator+of+Awesome+Projects" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=Mr-B1nary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Mr-B1nary?label=Followers&style=social" alt="GitHub followers" /> 
+</div>
+<hr>
+<h2>👨‍💻 About Me</h2>
+I'm AmirHossein (Mr-B1nary), a passionate Full-Stack Developer from Iran with a deep interest in Cybersecurity and Backend Engineering. I believe in writing clean, efficient code and building projects that make a difference.
 
+- 🔭 Currently working on: Advanced Python backend systems
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 Currently learning: Security+ (Network & Cyber Defense)
 
-<pre>
-- 🔭 I’m currently working on **Backend(Python)**
+- 💬 Ask me about: Python, Web Development, Secure Coding
 
-- 🌱 I’m currently learning **Security+**</pre>
+- ⚡ Fun fact: I love solving CTF challenges & building automated tools
 
+<hr>
 
+## 🛠️ My Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/mr_b1nary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_b1nary" height="30" width="40" /></a>
-<a href="https://t.me/Mr_B1naryy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mr_b1nary" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
+| **Category** | **Technologies** |
+|:------------:|:----------------:|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Security** | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+
+</div>
+
+<hr>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| 🎬 [Video-Club](https://github.com/Mr-B1nary/Video-Club) | ⏱️ [Timer](https://github.com/Mr-B1nary/Timer) |
+|:-------------------------------------------------------:|:-----------------------------------------------:|
+| A premium streaming UI platform | A minimalist timer app |
+
+| 🪑 [Wooden Shop](https://github.com/Mr-B1nary/Wooden-shop) | 💪 [Gym Store](https://github.com/Mr-B1nary/Gym-Store) |
+|:---------------------------------------------------------:|:------------------------------------------------------:|
+| Handcrafted wooden products store | Fitness equipment e-commerce |
+
+</div>
+<hr>
+<h3 align="left">🌐Connect with me:</h3>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-B1nary)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirhossein)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amirhossein)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhossein@example.com)
+
+</div>
+<hr>
+<h3 align="left"> 🖥Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-b1nary&show_icons=true&locale=en&layout=compact" alt="mr-b1nary" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-b1nary&show_icons=true&locale=en" alt="mr-b1nary" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-b1nary&" alt="mr-b1nary" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-B1nary&theme=radical&hide_border=true)
+
+</div>
+
+
