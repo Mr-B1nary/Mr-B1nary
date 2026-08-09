@@ -16,15 +16,14 @@ My journey in programming started with curiosity, and now it's a full-blown pass
 
 🔭 Currently working on: Advanced Python backend systems & Security+ certification
 
-🌱 Currently learning: Network security, cryptography, and system administration
+🌱 Currently learning: Network+ and system administration
 
-👯 Looking to collaborate on: Open-source projects, cybersecurity tools, and web applications
+👯 Looking to collaborate on: Open-source projects
 
 💬 Ask me about: Python, Web Development (HTML, CSS, JS), and Secure Coding
 
-🏆 Goal: To become a top-tier developer and cybersecurity expert
+🏆 Goal: To become a top-tier backend developer
 
-⚡ Fun fact: I'm a CTF (Capture The Flag) enthusiast who loves automating everything!
 
 <hr>
 
