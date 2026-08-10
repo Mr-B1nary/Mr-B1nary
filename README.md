@@ -53,7 +53,10 @@ My journey in programming started with curiosity, and now it's a full-blown pass
 |:---------------------------------------------------------:|:------------------------------------------------------:|
 | Handcrafted wooden products store | Fitness equipment e-commerce |
 
-<img src="https://github.com/Mr-B1nary/Mr-B1nary/blob/main/diagram.png" height="400">
+
+
+
+
 </div>
 <hr>
 <h3 align="left">🌐Connect with me:</h3>
@@ -71,9 +74,11 @@ My journey in programming started with curiosity, and now it's a full-blown pass
 
 <hr>
 
+
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-B1nary&theme=radical&hide_border=true)
+
 
 </div>
 
