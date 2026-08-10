@@ -1,10 +1,10 @@
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mr-B1nary;Full-Stack+Developer;Cybersecurity+Enthusiast;Creator+of+Awesome+Projects" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=Mr-B1nary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Mr-B1nary?label=Followers&style=social" alt="GitHub followers" /> 
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mr-B1nary;Frontend+Developer;Creator+of+Awesome+Projects" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=Mr-B1nary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Mr-B1nary?label=Followers&style=social" alt="GitHub followers" /> 
 </div>
 <hr>
 
 <h2 align="center">👨‍💻 Who Am I?</h2>
 
-Hey there! I'm AmirHossein, better known as <b><u>Mr-B1nary</u></b> in the digital world. I'm a passionate Full-Stack Developer and Cybersecurity Enthusiast from Iran. I believe in writing clean, efficient code and building projects that make a difference.
+Hey there! I'm AmirHossein, better known as <b><u>Mr-B1nary</u></b> in the digital world. I'm a passionate Frontend Developer and learning the backend .
 
 My journey in programming started with curiosity, and now it's a full-blown passion. I love exploring new technologies, solving complex problems, and sharing knowledge with the community.
 
@@ -14,13 +14,13 @@ My journey in programming started with curiosity, and now it's a full-blown pass
 
 <b>🧠 Quick Facts</b><br>
 
-🔭 Currently working on: Advanced Python backend systems & Security+ certification
+🔭 Currently working on: Advanced Python (backend)
 
-🌱 Currently learning: Network+ and system administration
+🌱 Currently learning: Network+
 
 👯 Looking to collaborate on: Open-source projects
 
-💬 Ask me about: Python, Web Development (HTML, CSS, JS), and Secure Coding
+💬 Ask me about: Python, Web Development 
 
 🏆 Goal: To become a top-tier backend developer
 
