@@ -54,7 +54,7 @@ My journey in programming started with curiosity, and now it's a full-blown pass
 | Handcrafted wooden products store | Fitness equipment e-commerce |
 
 
-<img src="">
+<img src="https://github.com/Mr-B1nary/Mr-B1nary/blob/main/diagram.png">
 
 
 </div>
