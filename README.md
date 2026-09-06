@@ -22,13 +22,13 @@ I started programming through curiosity and frontend development, and I'm now ex
 
 I enjoy understanding how systems work behind the scenes, solving problems, and continuously improving my technical skills.
 
----
+<!-- ---
 
 <div align="center">
 
-<!-- <img src="https://github.com/Mr-B1nary/Mr-B1nary/blob/main/diagram.png"> -->
+<!-- <img src="https://github.com/Mr-B1nary/Mr-B1nary/blob/main/diagram.png"> 
 
-</div>
+</div> -->
 
 ---
 
