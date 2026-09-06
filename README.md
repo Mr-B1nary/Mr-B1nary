@@ -40,13 +40,13 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 
 💻 Current foundation: <b>Frontend Development & Python</b>
 
-🔐 Future focus: <b>Cybersecurity</b>
+🔐 Future focus: <b>LLM</b>
 
 👯 Looking to collaborate on: <b>Open-source projects</b>
 
 💬 Ask me about: <b>Python, Web Development, Networking</b>
 
-🎯 Goal: <b>Become a strong Backend Developer and eventually specialize in Cybersecurity</b>
+🎯 Goal: <b>Become a strong Backend Developer.</b>
 
 <hr>
 
@@ -60,8 +60,8 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Networking** | TCP/IP · HTTP/HTTPS · DNS · Ports · Network+ |
-| **Future Focus** | Cybersecurity · Web Security · CTF · Pentesting |
+<!-- | **Networking** | TCP/IP · HTTP/HTTPS · DNS · Ports · Network+ |
+| **Future Focus** | Cybersecurity · Web Security · CTF · Pentesting | -->
 
 </div>
 
