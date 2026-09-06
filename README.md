@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2400&pause=900&color=00FF9C&center=true&vCenter=true&width=900&height=90&&lines=Hello%2C+I'm+Mr-B1nary;Frontend+Developer;Python+%26+Backend+Learner;Future+Cybersecurity+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2400&pause=900&color=00FF9C&center=true&vCenter=true&width=900&height=90&&lines=Hello%2C+I'm+Mr-B1nary;Frontend+Developer;Python+%26+Backend+Learner" alt="Typing SVG" />
 
   <br>
 
