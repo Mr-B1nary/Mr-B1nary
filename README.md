@@ -18,7 +18,7 @@ Hey there! I'm AmirHossein, better known as <b color=00FF9C><u>Mr-B1nary</u></b>
 
 I'm a developer currently building my foundation in <b>Python, Backend Development, and Networking</b>.
 
-I started programming through curiosity and frontend development, and I'm now expanding my knowledge toward backend systems, networking, Linux, and security.
+I started programming through curiosity and frontend development, and I'm now expanding my knowledge toward backend systems, networking, Linux.
 
 I enjoy understanding how systems work behind the scenes, solving problems, and continuously improving my technical skills.
 
@@ -40,7 +40,7 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 
 💻 Current foundation: <b>Frontend Development & Python</b>
 
-🔐 Future focus: <b>LLM</b>
+🔐 Future focus: <b>ML</b>
 
 👯 Looking to collaborate on: <b>Open-source projects</b>
 
