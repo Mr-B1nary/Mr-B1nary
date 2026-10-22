@@ -74,7 +74,7 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 
 | 🎬 [Video-Club](https://github.com/Mr-B1nary/Video-Club) | ⌨ [Type speed](https://github.com/Mr-B1nary/Timer) |
 |:-------------------------------------------------------:|:-----------------------------------------------:|
-| A premium streaming UI platform | A minimalist timer app |
+| A premium streaming UI platform | A minimalist Type speed app |
 
 | 🪑 [Wooden Shop](https://github.com/Mr-B1nary/Wooden-shop) | 💪 [Gym Store](https://github.com/Mr-B1nary/Gym-Store) |
 |:---------------------------------------------------------:|:------------------------------------------------------:|
