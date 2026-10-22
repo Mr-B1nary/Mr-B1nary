@@ -72,7 +72,7 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 
 <div align="center">
 
-| 🎬 [Video-Club](https://github.com/Mr-B1nary/Video-Club) | ⏱️ [Timer](https://github.com/Mr-B1nary/Timer) |
+| 🎬 [Video-Club](https://github.com/Mr-B1nary/Video-Club) | ⌨ [Type speed](https://github.com/Mr-B1nary/Timer) |
 |:-------------------------------------------------------:|:-----------------------------------------------:|
 | A premium streaming UI platform | A minimalist timer app |
 
