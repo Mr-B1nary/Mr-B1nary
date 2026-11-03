@@ -49,9 +49,9 @@ I enjoy understanding how systems work behind the scenes, solving problems, and 
 
 🎯 Goal: <b>Become a strong Backend Developer.</b>
 
-<hr>
+<!-- <hr> 
 
- <!-- ## 🛠️ My Tech Stack
+ ## 🛠️ My Tech Stack
 
 <div align="center">
 
